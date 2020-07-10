@@ -111,11 +111,11 @@ main {
 
 .close-lb{
   float: right;
-  padding: 0 40px 0 0;
+  padding: 0 30px 0 0;
   cursor: pointer;
   font-size: 3em;
 
-  font-family: Arial, Helvetica, snas-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: white;
 
   opacity: 0.6;
@@ -125,7 +125,7 @@ main {
   opacity: 1;
 }
 
-.show-Lightbox{
+.show-lightbox{
   display: block;
 }
 
